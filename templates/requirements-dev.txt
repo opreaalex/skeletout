@@ -1,0 +1,7 @@
+Flask
+Flask-Assets
+Flask-SQLAlchemy
+Flask-Script
+Flask-Security
+Flask-WTF
+celery
