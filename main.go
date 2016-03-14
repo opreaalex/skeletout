@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"local/kratzz/skeletout/skeleton"
+	"github.com/opreaalex/skeletout/skeleton"
 )
 
 const TEMPLATES_DIR = "./templates"

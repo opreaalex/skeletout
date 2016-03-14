@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"fmt"
 
-	"local/kratzz/skeletout/utils"
+	"github.com/opreaalex/skeletout/utils"
 )
 
 const TEMPLATES_DIR_KEY = "templatesDir"
