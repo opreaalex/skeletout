@@ -1,4 +1,5 @@
-skeletout
+#skeletout
+A skeleton generator written in Go for Flask web applications
 ==========
 
 Description
